@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surprise for Dad</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+        }
+        .content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        .content img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Surprise, Dad!</h1>
+        <p>Happy Father's Day! Here's a special web page just for you!</p>
+        <p>Thank you for everything you do. You're the best dad in the world!</p>
+        <img src="https://example.com/dad.jpg" alt="A picture of us">
+        <p>Here are some things I love about you:</p>
+        <ul>
+            <li>You always make time for us, no matter how busy you are.</li>
+            <li>Your jokes always make me laugh, even the cheesy ones.</li>
+            <li>You teach me so much and help me with my homework.</li>
+            <li>You're my hero and my best friend.</li>
+        </ul>
+        <p>Love you, Dad!</p>
+    </div>
+</body>
+</html>
